@@ -1,5 +1,3 @@
-#### Danielle Trent
-
 # Danielle Trent
 
 # My about me website
