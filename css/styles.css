@@ -4,15 +4,23 @@ h1 {
 }
 
 .all{
-  float: left;
   background-color:chartreuse;
 }
 
 .list{
-  
+    width: 300px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+  }
   
 }
 .me {
-  float:left;
   background-color:rgb(255, 251, 0);
+}
+
+.below{
+  text-align: center;
+  margin-right: 80%;
+  margin-left: 10%;
 }
