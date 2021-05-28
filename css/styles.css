@@ -2,3 +2,17 @@ h1 {
   color: #ff0000;
   text-align: center;  
 }
+
+.all{
+  float: left;
+  background-color:chartreuse;
+}
+
+.list{
+  
+  
+}
+.me {
+  float:left;
+  background-color:rgb(255, 251, 0);
+}
