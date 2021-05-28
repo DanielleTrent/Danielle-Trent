@@ -4,7 +4,7 @@ h1 {
 }
 
 .all {
-  background-color:chartreuse;
+  background-color:rgb(156, 155, 60);
 }
 
 .list {
@@ -14,16 +14,19 @@ h1 {
     margin: 20px;
   }
   
-}
+
 .me {
-  width: 400px;
+  width: 1000px;
   border: 10px solid red;
   padding: 50px;
-  margin: 20px;
+  margin: auto;
+  align-items: center;
+  
 }
 
 .below {
   text-align: center;
   margin-right: 80%;
   margin-left: 10%;
+
 }
