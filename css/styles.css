@@ -1,6 +1,7 @@
 h1 {
   color: #ff0000;
-  text-align: center;  
+  text-align: center;
+    
 }
 
 .all {
@@ -8,6 +9,7 @@ h1 {
 }
 
 .list {
+  float: left;
     width: 300px;
     border: 15px solid black;
     padding: 50px;
@@ -16,6 +18,7 @@ h1 {
   
 
 .me {
+  float: left;
   width: 1000px;
   border: 10px solid red;
   padding: 50px;
@@ -26,7 +29,12 @@ h1 {
 
 .below {
   text-align: center;
+  font-size: large;
   margin-right: 80%;
   margin-left: 10%;
 
+}
+
+.Columbus-Ohio {
+   text-align:center;
 }
