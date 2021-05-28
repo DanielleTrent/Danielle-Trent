@@ -3,11 +3,11 @@ h1 {
   text-align: center;  
 }
 
-.all{
+.all {
   background-color:chartreuse;
 }
 
-.list{
+.list {
     width: 300px;
     border: 15px solid black;
     padding: 50px;
@@ -16,10 +16,13 @@ h1 {
   
 }
 .me {
-  background-color:rgb(255, 251, 0);
+  width: 400px;
+  border: 10px solid red;
+  padding: 50px;
+  margin: 20px;
 }
 
-.below{
+.below {
   text-align: center;
   margin-right: 80%;
   margin-left: 10%;
