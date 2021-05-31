@@ -1,4 +1,5 @@
 h1 {
+  float: left;
   color: #ff0000;
   text-align: center;
     
@@ -28,6 +29,7 @@ h1 {
 }
 
 .below {
+  float: left;
   text-align: center;
   font-size: large;
   margin-right: 80%;
@@ -36,5 +38,6 @@ h1 {
 }
 
 .Columbus-Ohio {
+  float: left;
    text-align:center;
 }
